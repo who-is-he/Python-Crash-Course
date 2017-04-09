@@ -1,0 +1,2 @@
+guests = ['Leonhard Euler', 'Alfred Einstein', 'Karl Marx']
+print(guests[0]+", I invite you to dinner to teach me maths.\n"+guests[1]+", I invite you to dinner to teach me Physics.\n"+guests[2]+", I invite you to dinner to spread class consciousness.")

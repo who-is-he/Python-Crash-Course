@@ -1,0 +1,2 @@
+transport = ['scooter', 'bike', 'ripstick', 'ultralight craft']
+print('I would really like to ride my '+transport[0]+" today.\n",'I would really like to ride my '+transport[1]+" today.\n",'I would really like to ride my '+transport[2]+" today.\n",'I would really like to ride my '+transport[3]+" today.\n")
