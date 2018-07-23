@@ -8,7 +8,7 @@ print(car == 'audi')
 
 #1
 print("Is ten less than eleven? I predict True.")
-print(10<11)
+print(10 < 11)
 
 #2
 print("Is 2^8 - 1 equal to 255? I predict True.")

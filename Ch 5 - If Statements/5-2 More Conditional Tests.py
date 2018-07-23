@@ -20,6 +20,6 @@ print(lizt2[1] == age1) #false
 print('\nTrue: ')
 print(age1 <= age2 and True) #true
 print(lizt1 in lizt2) #true
-print(string1 == string2+' '+string3) #true
+print(string1 == string2 + ' ' + string3) #true
 print(lizt3[1].lower() in lizt1) #true
 print(boolean1 or boolean2) #true
