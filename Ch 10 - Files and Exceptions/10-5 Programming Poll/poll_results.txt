@@ -1,0 +1,4 @@
+poll results: 
+mike: you can program lots of math
+jack: functions are rad
+syndra: it's logical
