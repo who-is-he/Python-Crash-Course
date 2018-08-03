@@ -1,0 +1,7 @@
+in python you can create immutable objects called tuples
+in python you can create dictionaries
+in python you can parse text files
+in python you can create classes
+in python you can inherit from classes
+in python you can create functions
+in python you can create list comprehensions
